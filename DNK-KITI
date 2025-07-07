@@ -1,0 +1,27 @@
+KITTI-1 (DNK KITTI)
+
+English
+
+KITTI-1 (DNK KITTI) is the first open release. It runs with DNK-6 to keep data lines safe and checks every session step by step.
+
+- Uses DNK-6 for handshake checks and fresh keys each time.
+- Keeps data paths simple, no extra symbolic stuff (no dragons or braids).
+- Biometrics or voice can be linked from outside, stays out of the main code.
+- Works on local setups, containers or cloud boxes.
+- No huge extras needed.
+
+Good for teams that want a plain way to handle secure traffic without heavy tools.
+
+---
+
+Українська
+
+KITTI-1 (DNK KITTI) — перший відкритий випуск. Працює на DNK-6, щоб захищати канали та перевіряти кожен сеанс поетапно.
+
+- DNK-6 перевіряє рукостискання та оновлює ключі щоразу.
+- Прості канали без зайвої символіки (без «драконів» чи «косичок»).
+- Біометрію чи голос можна підключити окремо, не вшито в ядро.
+- Працює на локальних серверах, у контейнерах чи хмарі.
+- Не потребує важких додаткових модулів.
+
+Підійде тим, хто хоче налаштувати захищений трафік без складних рішень.
